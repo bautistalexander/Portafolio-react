@@ -180,7 +180,12 @@ export const frontend = [
     nombre: 'Tailwind',
     nivel: 'Básico',
     logo: ''
-  }
+  },
+  {
+    nombre: 'Flutter',
+    nivel: 'Básico',
+    logo: ''
+  },
 ]
 
 export const backend = [
