@@ -147,7 +147,7 @@ export const formacion_academica = [
 
 
 // A cerca de mi
-export const descripcion = 'Programador Web - Docente, He con proyectos a universitarios, asi mismo imparti clases de programación como también otros cursos de computación.'
+export const descripcion = 'Programador Web - Docente, He apoyado con proyectos a universitarios, asi mismo imparti clases de programación como también otros cursos de computación.'
 
 // Habilidades
 export const frontend = [
