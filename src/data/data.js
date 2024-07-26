@@ -14,7 +14,7 @@ export const datos_personales = {
   celular: '71299234',
   fotografia1: './miFoto.png',
   fotografia2: '',
-  cv: './Alexander-Bautista-(C.V.).pdf'
+  cv: './Alexander-Bautista-(CV).pdf'
 }
 
 //Contactos
